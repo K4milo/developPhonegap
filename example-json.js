@@ -13,9 +13,9 @@
 },
 {
     "location": {
-        "latitude": 4.710988599999999,
-        "longitude": -74.072092,
-        "displayAddress": "AV. Suba - 127D"
+        "latitude": 4.6422004,
+        "longitude": -74.094631,
+        "displayAddress": "Estadio Alfonso López Pumarejo"
     },
     "storeNumber": 2,
     "name": "Alabaster",
